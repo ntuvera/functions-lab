@@ -102,10 +102,6 @@ See the accompanying lab directory, which contains the required classes and test
 
 See the accompanying solution directory for the solutions.
 
-### Deliverable
-
-We'll take about 20 minutes at the end of the class to review the solutions.
-
 ----
 
 ## Additional Resources
